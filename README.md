@@ -1,28 +1,12 @@
-<h3 dir="auto">
-<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
-  About Me
-</h3>
+### :relaxed: About Me
 
-<ul dir="auto">
-<li>안녕하세요! 게임 클라이언트 개발 지망생 김민준 입니다.</li>
-</ul>
+- 안녕하세요! 신입 백엔드 개발자 권시연 입니다.
+- 노션, 깃허브 등 꾸준한 기록 활동을 통해 **꾸준함을 증명**할 수 있습니다.
 
-
+### :video_game: Portfoilo
 <a href="https://jooonkim.com/" target="_blank"><img src="https://img.shields.io/badge/언리얼 포트폴리오-E8E8E8?style=for-the-badge&logo=unrealengine&logoColor=0E1128"/></a>
+언리얼엔진4를 이용한 포트폴리오 사이트입니다.
+<br/>
+<a href="https://jooooon.notion.site/1a6945db289f43bf8ff18b0e869fad6d" target="_blank"><img src="https://img.shields.io/badge/공부기록-E8E8E8?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 
 
-
-<!--
-**Joonking/Joonking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

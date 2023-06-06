@@ -1,6 +1,6 @@
 ### :relaxed: About Me
 
-&nbsp;&nbsp;&nbsp;&nbsp; - 안녕하세요! 게임 클라이언트 개발 지망생 **김민준** 입니다.
+&nbsp;&nbsp;&nbsp;&nbsp;  - 안녕하세요! 게임 클라이언트 개발 지망생 **김민준** 입니다.
 
 <br/>
 

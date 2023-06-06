@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://jooonkim.com/" target="_blank"><img src="https://img.shields.io/badge/언리얼 포트폴리오-000000?style=for-the-badge&logo=#0E1128&logoColor=000000"/></a>
+<a href="https://jooonkim.com/" target="_blank"><img src="https://img.shields.io/badge/언리얼 포트폴리오-000000?style=for-the-badge&logo=#0E1128&logoColor=FFFFFF"/></a>
 
 
 

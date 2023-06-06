@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<h3 dir="auto">
+<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
+ " About Me"
+</h3>
+
+
 
 <a href="https://jooonkim.com/" target="_blank"><img src="https://img.shields.io/badge/언리얼 포트폴리오-E8E8E8?style=for-the-badge&logo=unrealengine&logoColor=0E1128"/></a>
 

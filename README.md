@@ -9,7 +9,7 @@
 + 언리얼 엔진을 이용하여 포트폴리오 용도의 게임을 제작하였습니다.
 + 언리얼 엔진 4.26 버전을 사용하였고, 개발 기간은 약 5개월 정도 소요되었습니다.
 + 해당 사이트에서 **개발 영상들과 기술문서**를 확인하실 수 있습니다.
-
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://jooooon.notion.site/1a6945db289f43bf8ff18b0e869fad6d" target="_blank"><img src="https://img.shields.io/badge/공부기록-808080?style=for-the-badge&logo=notion&logoColor=white"/></a>
 

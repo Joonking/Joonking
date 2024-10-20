@@ -9,7 +9,7 @@
 + 언리얼 엔진을 이용하여 포트폴리오 용도의 게임을 제작하였습니다.
 + 언리얼 엔진 4.26 버전을 사용하였고, 개발 기간은 약 5개월 정도 소요되었습니다.
 
-[![Video Label](http://img.youtube.com/vi/59USvjy2toI/0.jpg)](https://youtu.be/kqGw09GcwIU)
+[![Video Label](http://img.youtube.com/vi/kqGw09GcwIU/0.jpg)](https://youtu.be/kqGw09GcwIU)
 
 <br/>
 
